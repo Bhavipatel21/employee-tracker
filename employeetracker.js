@@ -194,7 +194,7 @@ const runSearch = () => {
             {
               type: "input",
               name: "newId",
-              message: "Please enter the updated role id for this emplouyee ",
+              message: "Please enter the updated role id for this employee ",
             },
           ])
           .then((res) => {

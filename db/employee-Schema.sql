@@ -55,5 +55,5 @@ VALUES
 ("Barney", "Stinson", 1, 4),
 ("Lily", "Aldrin", 4, 5),
 ("Tracy", "McConnell", 1, 6),
-("Kevin", "Penn", 2, 8);
+("Kevin", "Penn", 2, 8)
 ("Bob", "Saget", 2, 9);
