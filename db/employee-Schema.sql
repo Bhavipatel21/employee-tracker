@@ -46,7 +46,7 @@ VALUES
 ("Cashier", 90000, 4),
 ("Sales Associate", 100000, 4);
 
---INSERT data into Role table--
+--INSERT data into Employee table--
 INSERT INTO Employee (first_name, last_name, manager_id, role_id)
 VALUES 
 ("Ted", "Mosby", null, 1),
