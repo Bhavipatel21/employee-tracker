@@ -34,7 +34,7 @@ npm i figlet
 ## Usage
 Walthrough of for Employee Tracker
 
-[Video]()
+[Video](https://drive.google.com/file/d/1E4FXourUAFd5kcEAlWltRv84kZcfP7Mx/view)
 
 ## Mock-up
 
